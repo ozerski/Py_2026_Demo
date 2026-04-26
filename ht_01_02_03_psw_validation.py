@@ -26,7 +26,7 @@ def validate_password(password: str) -> dict[str, bool]:
         "is_strong": is_strong
     }
 
-# password = "StrongPass1!"
+# password = "StrongPass1!!"
 # password = "weak"
 # password = "NoSpecialChar123"
 password = "Qwerty123!"
